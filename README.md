@@ -40,3 +40,5 @@ docker start <cont-id/name>
 docker rm <cont-id>
 
 docker rm -f $(docker ps -aq)
+
+<img width="844" height="458" alt="image" src="https://github.com/user-attachments/assets/a0f3ea94-dbae-4328-84fe-85a4b06f52c5" />
